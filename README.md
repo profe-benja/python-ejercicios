@@ -259,8 +259,6 @@ print(combinado)
 ```
 Resultado: `[1, 2, 3, 4, 5, 6]`
 
-¡Claro! Aquí tienes los ejercicios del 31 al 100 resueltos:
-
 31. Invierte el orden de los elementos del arreglo.
 ```python
 arreglo = [1, 2, 3, 4, 5]
